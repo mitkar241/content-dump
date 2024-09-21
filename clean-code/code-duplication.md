@@ -3,7 +3,7 @@
 
 Original Program:
 
-```
+```go
 func getUser(response, request) {
   userID = request.url["user"]
 
@@ -60,7 +60,7 @@ This is because of existence of duplicte code.
 
 Updated Program:
 
-```
+```go
 func getSingleUser(userID) {
   cacheMu.Lock()
   user, found = cache[userID]
