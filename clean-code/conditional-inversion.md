@@ -66,3 +66,5 @@ func main() {
   }
 }
 ```
+
+This also helps associting the error statements with the condition against which the error is thrown.
