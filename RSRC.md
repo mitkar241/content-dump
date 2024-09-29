@@ -12,6 +12,7 @@
 
 ## DevOps
 ---
+- [ByteByteGo - Playlist](https://www.youtube.com/@ByteByteGo/playlists)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
 - [DevOpsCube](https://devopscube.com/)
 - [r/devops](https://www.reddit.com/r/devops/)
