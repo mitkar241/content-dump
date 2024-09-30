@@ -18,6 +18,10 @@
 - [r/devops](https://www.reddit.com/r/devops/)
 - [r/sre](https://www.reddit.com/r/sre/)
 
+## CI/CD
+---
+- [CloudBeesTV/Jenkins Tutorials](https://www.youtube.com/playlist?list=PLvBBnHmZuNQJeznYL2F-MpZYBUeLIXYEe)
+
 ## Cloud
 ---
 - [CloudSoldier/Mastering AZ-400: Variable Groups & Azure Key Vault Integration in Pipelines (2024)](https://www.youtube.com/watch?v=p6WHZrC4zrE)
