@@ -10,6 +10,11 @@
 ---
 - [tutoriaLinux/3 Concepts to Master for DevOps/SRE Interviews](https://www.youtube.com/watch?v=qW1Y4vOcRGc)
 
+## Books
+---
+- https://github.com/G-khan/the-software-engineer-library
+- https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters
+
 ## DevOps
 ---
 - [ByteByteGo - Playlist](https://www.youtube.com/@ByteByteGo/playlists)
