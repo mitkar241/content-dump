@@ -5,6 +5,7 @@
 ---
 - [David Bombal - Playlists](https://www.youtube.com/@davidbombal/playlists)
 - [TechWorld with Nana - Playlists](https://www.youtube.com/@TechWorldwithNana/playlists)
+- https://sadservers.com/scenarios
 
 ## Interview
 ---
